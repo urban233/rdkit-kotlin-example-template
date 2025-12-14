@@ -1,5 +1,5 @@
 // -------------------------------------------------------------------------- //
-// This file contains source code for the Conan RDKit package
+// This file contains source code for the RDKit Kotlin example
 // copyright (c) 2025 by Martin Urban.
 // It is unlawful to modify or remove this copyright notice.
 // Please see the accompanying LICENSE file for further information.
