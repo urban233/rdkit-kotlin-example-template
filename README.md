@@ -62,8 +62,8 @@ Currently, only the **Windows** build is provided in this repository, but it can
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rdkit-kotlin-template.git
-cd rdkit-kotlin-template
+git clone https://github.com/urban233/rdkit-kotlin-example-template.git
+cd rdkit-kotlin-example-template
 ```
 
 2. Build and run:
